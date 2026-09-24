@@ -15,10 +15,10 @@ L'objectif est de mesurer l'impact du transfert d'apprentissage sur la **vitesse
 
 ```
 cnn-catsdogs-LY_Aicha-Codou-Arab/
-├─ notebook.ipynb      # code complet + rapport + résultats
-├─ requirements.txt    # bibliothèques Python nécessaires
-├─ .gitignore          # exclut les données et les modèles (.pt)
-├─ figures/            # courbes, matrices de confusion, erreurs
+├─ notebook.ipynb      avec le code complet, un petit rapport dans les Markdowns + les résultats
+├─ requirements.txt    avec les bibliothèques Python nécessaires
+├─ .gitignore          en excluant les données et les modèles (.pt)
+├─ figures/            avec les courbes, les matrices de confusion et les erreurs
 └─ README.md
 ```
 
