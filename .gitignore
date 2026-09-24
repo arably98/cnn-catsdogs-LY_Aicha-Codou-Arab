@@ -1,0 +1,15 @@
+# Données (à télécharger, voir README)
+data/
+Cat_Dog_data/
+*.zip
+
+# Modèles et logs lourds
+*.pt
+*.pth
+checkpoints/
+runs/
+
+# Fichiers temporaires
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
