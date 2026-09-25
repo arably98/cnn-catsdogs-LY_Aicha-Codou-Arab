@@ -167,3 +167,5 @@ model.eval()
 - Pour le transfer learning, seul le classifieur est entraîné. Un fine-tuning des dernières couches convolutionnelles pourrait encore améliorer les résultats.
 - La recherche du learning rate s'est limitée aux valeurs de référence et au scheduler. Un *LR range test* ou une recherche plus systématique d'hyperparamètres serait plus rigoureux.
 - Le jeu de données contient quelques images mal étiquetées ou non représentatives, qui limitent la performance maximale atteignable.
+
+***vidéo de présentation :*** https://drive.google.com/file/d/1SSPyEmOR5arHbKDxGEe0HfNe6QHdQ1nN/view?usp=drive_link
